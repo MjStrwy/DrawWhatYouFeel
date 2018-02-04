@@ -8,7 +8,7 @@ Initial concept by Sherri-Lynn McKenna
 
 ## Getting Started
 
-1. Register an account on [what was that thing again?]
+1. Register an account on Parse.com (deprecated as of January 2017 due to Facebook acquisition).
 2. Download the repo and open the index:
 ```
 git clone git@github.com:MjStrwy/DrawWhatYouFeel.git
